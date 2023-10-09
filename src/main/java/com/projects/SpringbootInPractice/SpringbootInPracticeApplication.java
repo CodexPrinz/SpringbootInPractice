@@ -15,7 +15,7 @@ public class SpringbootInPracticeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootInPracticeApplication.class, args);
 	}
-
+/*
 	@Bean
 	public CommandLineRunner commandLineRunner(){
 		return args -> {
@@ -23,4 +23,7 @@ public class SpringbootInPracticeApplication {
 
 		};
 	}
+ */
+
+
 }
