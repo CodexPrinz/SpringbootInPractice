@@ -12,7 +12,7 @@ public class SpringbootInPracticeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootInPracticeApplication.class, args);
-		logger.info("SpringbootInPracticeApplication started successfully with Log4j2 configuration");
+
 	}
 
 }
